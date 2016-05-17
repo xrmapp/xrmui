@@ -1,2 +1,2 @@
 # xrmui
-JavaScript Framework Assisting With the Development of Dynamics CRM Solutions
+UI Framework Built On Top of XrmJs JavaScript library to assist with the development of Dynamics CRM Solutions
